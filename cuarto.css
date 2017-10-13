@@ -6,7 +6,8 @@
 .grey{
   background-color: grey;
   display: inline-block;
-  margin: 20px; /*para darle espacio entre la caja del medio*/
+  margin-left: 10px; /*para darle espacio entre la caja del medio*/
+  margin-right: 10px;
 }
 h4{
   padding: 0.4em; /*para que no empiece desde el borde*/
