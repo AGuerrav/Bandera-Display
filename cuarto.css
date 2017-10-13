@@ -1,0 +1,21 @@
+.yellow{
+  background-color: yellow;
+  display: inline-block;
+
+}
+.grey{
+  background-color: grey;
+  display: inline-block;
+  margin: 20px; /*para darle espacio entre la caja del medio*/
+}
+h4{
+  padding: 0.4em; /*para que no empiece desde el borde*/
+  margin: 0; /*para sacarle el espacio del body (achicar la caja)*/
+}
+.white{
+  color:white;
+  margin: 0;
+}
+body{
+  margin-top: 0;
+}
